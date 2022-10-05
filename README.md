@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jay-shenoy
-- 👀 I’m interested in developing solvers using wide range numerical methods.
-- 🌱 I’m currently learning Lattice Boltzmann Method
+- 👋 Hi, I’m Jayanth Shenoy
+- 👀 I’m interested in developing particle based solvers like LBM , SPH.
+- 🌱 I’m good at developing solvers for isothermal , thermal flows using Lattice Boltzmann Method
 - 💞️ I’m looking to collaborate on Lattice Boltzmann method
 - 📫 You can reach me at jayanthshenoy7@gmail.com
 
