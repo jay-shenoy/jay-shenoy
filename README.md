@@ -2,6 +2,7 @@
 - 👀 I’m interested in developing particle based solvers like LBM , SPH.
 - 🌱 I’m good at developing solvers for isothermal , thermal flows using Lattice Boltzmann Method
 - 💞️ I’m looking to collaborate on Lattice Boltzmann method
+- Recently I've started learning neural networks , PINNS to combine with numerical methods
 - 📫 You can reach me at jayanthshenoy7@gmail.com
 
 <!---
