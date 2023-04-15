@@ -6,12 +6,17 @@ I'm Jayanth , expertise in LBM. Plan is to apply it everywhere as small tribute 
 
 Skills: CFD , Heat transfer.
 
-- 🔭 I’m currently working on CFD , ML in CFD 
+- 🔭 I’m currently working on CFD , ML in fluid dynamics & HT 
 - 🌱 I’m currently learning Other particle based methods like SPH 
-- 👯 I’m looking to collaborate on CFD , ML in CFD 
+- 👯 I’m looking to collaborate on CFD , ML in fluid dynamics & HT 
 - 🤔 I’m looking for help with SPH , Vortex particle method 
 - 💬 Ask me about LBM 
 - 📫 How to reach me: jayanthshenoy7@gmail.com 
+
+
+
+
+
 
 
 
