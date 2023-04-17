@@ -9,7 +9,7 @@ Skills: CFD , Heat transfer.
 - 🔭 I’m currently working on CFD , ML in fluid dynamics & HT 
 - 🌱 I’m currently learning Other particle based methods like SPH 
 - 👯 I’m looking to collaborate on CFD , ML in fluid dynamics & HT 
-- 🤔 I’m looking for doing PhD in SPH/Vortex particle method or Experimental methods combined with NN
+- 🤔 I’m looking for doing PhD in SPH/Vortex particle method or Experimental methods combined with NN/inverse problems
 - 💬 Ask me about LBM 
 - 📫 How to reach me: jayanthshenoy7@gmail.com 
 
