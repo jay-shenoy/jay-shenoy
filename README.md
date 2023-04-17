@@ -1,6 +1,6 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
-### Fan of Prof Thurey research work 
+### Fan of Prof Thurey's research work 
 ![Just a normal CFD guy ;)](https://cdn.paperpile.com/blog/img/ludwig-boltzmann-1400x700.png)
 
 I'm Jayanth , expertise in LBM. Plan is to apply it everywhere as small tribute to Ludwig Boltzmann.
