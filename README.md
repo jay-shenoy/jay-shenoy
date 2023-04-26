@@ -1,6 +1,7 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble)
+### There lot of Prof who share knowledge selflessly whom I admire & look upto , be it Prof C Balaji , Prof Prabhu (who has created PySPH , Mayavi)
 
 ![Just a normal CFD guy ;)](https://cdn.paperpile.com/blog/img/ludwig-boltzmann-1400x700.png)
 
