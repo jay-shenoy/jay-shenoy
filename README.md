@@ -5,7 +5,7 @@
 ### Once rejected by IIT Bombay for PhD , Trying second time
 ### Once rejected by my own alma matter for PhD
 
-### "I am thankful to all those who said NO to me. It is because of them I did it myself"
+### "I am thankful to all those who said NO to me. It is because of them I  started doing by myself"
 
 ![Just a normal CFD guy ;)](https://cdn.paperpile.com/blog/img/ludwig-boltzmann-1400x700.png)
 
