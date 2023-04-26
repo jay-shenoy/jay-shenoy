@@ -1,9 +1,9 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble)
-## Twice rejected by IIT Madras for PhD
-## Once rejected by IIT Bombay for PhD
-## Once rejected by my own alma matter for PhD
+### Twice rejected by IIT Madras for PhD
+### Once rejected by IIT Bombay for PhD
+### Once rejected by my own alma matter for PhD
 
 ![Just a normal CFD guy ;)](https://cdn.paperpile.com/blog/img/ludwig-boltzmann-1400x700.png)
 
