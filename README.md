@@ -5,10 +5,12 @@
 ### Once rejected by IIT Bombay for PhD , Trying second time
 ### Once rejected by my own alma matter for PhD
 
+### "I am thankful to all those who said ##NO to me. It is because of them I did it myself"
+
 ![Just a normal CFD guy ;)](https://cdn.paperpile.com/blog/img/ludwig-boltzmann-1400x700.png)
 
 I'm Jayanth , expertise in LBM. 
-"I am thankful to all those who said ##NO to me. It is because of them I did it myself"
+
 
 Plan is to apply it everywhere as small tribute to Ludwig Boltzmann.
 
