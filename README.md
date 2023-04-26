@@ -1,6 +1,10 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Book)
+### Look up in admiration to Prof C Balaji for his selfless lectures , various talks from Vedanta to HT , Atmospheric science.
+### Look up in admiration to Prof Prabhu for his PySPH , Mayavi ,(want to do like him in LBM , long way to go)
+
+
 ### Never fear rejection
 1. Twice rejected by IIT Madras for PhD , Tried third time
 2. Once rejected by IIT Bombay for PhD , Trying second time
