@@ -9,7 +9,7 @@
 1. Twice rejected by IIT Madras for PhD , Tried third time
 2. Once rejected by IIT Bombay for PhD , Trying second time
 3. Asked to get out , Lied , misguided was denied computing facility for novel work at IIT Dharwad.
-4.  After which got rejected by my own alma matter which is in my hometown for PhD when there were just 3 people for interview :D , Inspite of requesting Director for help saying can't live good life in Dharwad with toxic environment from earlier guide. The message is clear , DO NOT CARE
+4. After which got rejected by my own alma matter which is in my hometown for PhD when there were just 3 people for interview :D , Inspite of requesting Director for help saying can't live good life in Dharwad with toxic environment from earlier guide. The message is clear , DO NOT CARE
 
 ### "I am thankful to all those who said NO to me. It is because of them I  started doing by myself"
 
