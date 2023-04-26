@@ -1,12 +1,15 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble)
-### There lot of Prof whom I admire & look upto , be it Prof C Balaji(For all fantastic lectures , selfless in sharing knowledge with no iota of jealousy which is huge factor in our country so far expereinced by me , from deliberate don't know to denial of computing facility for novel work to being denied admission in my own alma matter).
-### Prof Prabhu (who has created PySPH , Mayavi) want to build LBM solver like he did for SPH
+## Twice rejected by IIT Madras for PhD
+## Once rejected by IIT Bombay for PhD
+## Once rejected by my own alma matter for PhD
 
 ![Just a normal CFD guy ;)](https://cdn.paperpile.com/blog/img/ludwig-boltzmann-1400x700.png)
 
 I'm Jayanth , expertise in LBM. 
+"I am thankful to all those who said ##NO to me. It is because of them I did it myself"
+
 Plan is to apply it everywhere as small tribute to Ludwig Boltzmann.
 
 Skills: CFD , Heat transfer.
