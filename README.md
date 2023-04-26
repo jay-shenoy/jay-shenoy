@@ -1,6 +1,6 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
-### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble)
+### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Book)
 ### Twice rejected by IIT Madras for PhD , Tried third time
 ### Once rejected by IIT Bombay for PhD , Trying second time
 ### Once rejected by my own alma matter for PhD
