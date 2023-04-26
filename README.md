@@ -1,9 +1,10 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Book)
-### Twice rejected by IIT Madras for PhD , Tried third time
-### Once rejected by IIT Bombay for PhD , Trying second time
-### Once rejected by my own alma matter for PhD when there were just 3 people for interview :D
+### Never fear rejection
+1. Twice rejected by IIT Madras for PhD , Tried third time
+2. Once rejected by IIT Bombay for PhD , Trying second time
+3. Once rejected by my own alma matter for PhD when there were just 3 people for interview :D
 
 ### "I am thankful to all those who said NO to me. It is because of them I  started doing by myself"
 
