@@ -1,6 +1,8 @@
 ### Hi there 👋, Jayanth
 #### Just a normal CFD guy ;)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Book)
+
+### If I had money would have studied just like him in FAU Erlangen where I had admit
  
 
 ### "I am thankful to all those who said NO to me. It is because of them I  started doing by myself"
