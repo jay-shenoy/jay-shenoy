@@ -18,10 +18,9 @@ Plan is to apply it everywhere as small tribute to Ludwig Boltzmann.
 Skills: CFD , Heat transfer.
 
 - 🔭 I’m currently working on CFD , ML in fluid dynamics & HT 
-- 🌱 I’m currently learning Other particle based methods like SPH 
-- 👯 I’m looking to collaborate on CFD , ML in fluid dynamics & HT 
-- 🤔 I’m looking for doing PhD in SPH/Vortex particle method/Traditional CFD or Experimental methods combined with NN/inverse problems
-- 💬 Ask me about LBM 
+- 🌱 I'm doctoral researcher in IIT Bomnay
+- 👯 I switched from Mechanical Engg to Climate science
+- 💬 Ask me about LBM , Fluid dynamics , HT.
 - 📫 How to reach me: jayanthshenoy7@gmail.com 
 
 
