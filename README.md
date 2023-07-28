@@ -1,6 +1,6 @@
 ### Hi there 👋, Jayanth here
 ### Currently doctoral researcher in climate science @IIT Bombay
-### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Book)
+### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Neural network book which is hands on)
 ### Will try for post doc & meet him , use simulation in hollywood movies like him :D
 ### Made wrong decision to not have studied just like him in FAU Erlangen where I had admit
  
