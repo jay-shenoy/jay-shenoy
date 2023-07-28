@@ -2,7 +2,7 @@
 #### Just a normal CFD guy ;)
 ### Now working towards becoming climate guy :)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Book)
-### Will try for post doc & meet him
+### Will try for post doc & meet him , use simulation in hollywood movies like him :D
 ### Currently doctoral researcher in climate science @IIT Bombay
 ### Made wrong decision to not have studied just like him in FAU Erlangen where I had admit
  
