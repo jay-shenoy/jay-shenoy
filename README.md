@@ -1,5 +1,6 @@
 ### Hi there 👋, Jayanth here
 #### Just a normal CFD guy ;)
+### Now working towards becoming climate guy :)
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!(Read as humble , provides FREE Book)
 ### Will try for post doc & meet him
 ### Currently doctoral researcher in climate science @IIT Bombay
