@@ -2,10 +2,10 @@
 ### Currently doctoral researcher in climate science @IIT Bombay
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!
 ### Will try for post doc & meet him , use simulation in hollywood movies like him :D
-### Made wrong decision to not have studied just like him in FAU Erlangen where I had admit
+## Regret decision making in past to not have studied just like him in FAU Erlangen where I had admit
  
 
-### "I am thankful to all those who said NO to me. It is because of them I  started doing by myself"
+### "I am thankful to all those who said NO to me. It is because of them I started doing by myself"
 
 ![Just a normal CFD guy ;)](https://cdn.paperpile.com/blog/img/ludwig-boltzmann-1400x700.png)
 
