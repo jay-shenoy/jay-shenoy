@@ -2,7 +2,7 @@
 ### Currently doctoral researcher in climate science @IIT Bombay
 ### Fan of Prof Thurey's research work , was happiest when man who won oscar for simulation replied!
 ### Will try for post doc & meet him , use simulation in hollywood movies like him :D
-## Regret decision making in past to not have studied just like him in FAU Erlangen where I had admit
+## Could have decided to have just studied like him in FAU Erlangen where I had admit
  
 
 ### "I am thankful to all those who said NO to me. It is because of them I started doing by myself"
